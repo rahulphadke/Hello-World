@@ -7,8 +7,8 @@ public class Hello {
 	public static void main(String[] args) {
 		System.out.println("Hello !!");
 		System.out.print(" Rahul");
-		System.out.println("**** Welcome to Wipro *****");
-
+		System.out.println("**** Welcome to Snapdeal *****");
+		System.out.print(" Changes done on 3rd Aug 2015");
 		
 	}
 
