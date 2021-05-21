@@ -9,6 +9,7 @@ public class Hello {
 		System.out.print(" Rahul");
 		System.out.println("**** Welcome to Snapdeal *****");
 		System.out.print(" Changes done on 3rd Aug 2015");
+		System.out.print(" I will add it to Hello-World repository");
 		
 	}
 
